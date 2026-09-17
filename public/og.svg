@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#031c2e"/>
+  <g transform="translate(870,150)" stroke="#7dd3fc" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="30" cy="150" r="35" stroke-width="8"/>
+    <circle cx="150" cy="150" r="35" stroke-width="8"/>
+    <path d="M30 150 L70 80 L110 80 L150 150 M70 80 L100 115"/>
+  </g>
+  <text x="90" y="150" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="54" font-weight="800" fill="#dbeafe" letter-spacing="-1">Cycling Speed</text>
+  <text x="90" y="215" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="54" font-weight="800" fill="#dbeafe" letter-spacing="-1">Calculator</text>
+  <text x="90" y="440" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="24" fill="#dbeafe">Solve for speed, distance, or time</text>
+  <text x="90" y="488" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="22" fill="#7dd3fc">Free · no sign-up · runs in your browser</text>
+</svg>
